@@ -9,3 +9,6 @@ Example of a post incident review
 
 ## Use this template to write an incident report! 
 https://docs.google.com/document/d/1_XABIoy-rHzoJLOyH3GM7ORSKt2oOrwx/edit?usp=sharing&ouid=100831930598359454886&rtpof=true&sd=true 
+
+## View complete 2017 Equifax Data Breach incident report below!
+https://docs.google.com/document/d/1ZO_ZdS8y6XcmbHx9_weulLA3eJa_SJnL/edit?usp=sharing&ouid=100831930598359454886&rtpof=true&sd=true
